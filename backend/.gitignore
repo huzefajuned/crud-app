@@ -1,0 +1,7 @@
+#dont upload never  node_modules  in Github..
+node_modules
+
+#dont upload never .env in Github
+.env
+
+
